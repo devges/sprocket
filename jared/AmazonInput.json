@@ -1,0 +1,9 @@
+{
+  "website" : "www.amazon.com",
+  "url" : "http://www.amazon.com/gp/new-releases/books/ref=zg_bsnr_nav_0",
+  "rootIdOrName" : "gridItemRoot",
+  "image" : "a-dynamic-image",
+  "price" : "a-size-base a-color-price",
+  "author" : "a-size-small a-link-child",
+  "multiple" : "a-link-normal"
+}
